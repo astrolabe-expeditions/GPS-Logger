@@ -40,6 +40,6 @@ https://github.com/astrolabe-expeditions/LittObs_CTD/tree/ed4291ef54c2eff3621bca
 
 - Réutiliser la base électronique des sondes CTD LittObs (ESP32 + lecteur carte micro SD + GPS neo6M + RTC DS3231)    
 
-- Gérer l'autonomie d'au moins 1 semaine sur batterie et imaginer un système ou il puisse être branché en USB
+- Gérer l'autonomie d'au moins 2 mois sur batterie et imaginer un système de recharge des batteries par USB
 
 - Intégration de l'électronique dans un boitier à minima résistant aux éclaboussures et au mieux étanche 
