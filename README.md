@@ -32,6 +32,8 @@ https://github.com/astrolabe-expeditions/LittObs_CTD/tree/ed4291ef54c2eff3621bca
     XXX correspond au numéro de l'instrument (ex : "001")
     datecreation correspond à la date de création du fichier en UTC au format ISO 8601 (ex : "2025-01-25T02:03:10Z)
 
+- Echantillonage du point toute les 5 minutes
+
 - Remplir le fichier CSV avec les colonnes suivantes :
     - datetime au format ISO8601
     - lat pour la lattitude
@@ -41,5 +43,7 @@ https://github.com/astrolabe-expeditions/LittObs_CTD/tree/ed4291ef54c2eff3621bca
 - Réutiliser la base électronique des sondes CTD LittObs (ESP32 + lecteur carte micro SD + GPS neo6M + RTC DS3231)    
 
 - Gérer l'autonomie d'au moins 2 mois sur batterie et imaginer un système de recharge des batteries par USB
+  
+- Intégrer un systéme d'affichage du niveau de batterie (petit écran/signal lumineux) 
 
-- Intégration de l'électronique dans un boitier à minima résistant aux éclaboussures et au mieux étanche 
+- Intégration de l'électronique dans un boitier (3D ?) à minima résistant aux éclaboussures et au mieux étanche 
